@@ -5,3 +5,6 @@ A simple ToDoList app was created for the Mobile Application course (Assignment 
 3. EditText: Allows the user to input new items for the list.
 4. Button: Adds the entered item to the list when clicked.
 5. Long Press to Delete: Allows the user to delete any item from the list by performing a long press on the item.
+
+Here's the video that represents the functionality of the project:
+https://drive.google.com/file/d/1JUNJ8gXxs6-suaZUvrJcSibo1brNo-4O/view?usp=sharing
