@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">2130227-RakibAhmad-Assignment2-CSE464-1</string>
+    <string name="ToDoList_Heading">ToDoList without SQLite</string>
+    <string name="Hint">Enter a New Item!</string>
+    <string name="Button">Add Item</string>
+
+
+</resources>
