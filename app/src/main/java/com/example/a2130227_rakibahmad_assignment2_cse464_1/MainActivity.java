@@ -29,6 +29,7 @@ public class MainActivity extends AppCompatActivity {
         });
 
         item_list = findViewById(R.id.item_list);
+        //created an array to store the items, so that we can fetch it in the list view.
         arrayItems = new ArrayList<>();
         adapterItems = new ArrayAdapter<>(this, android.R.layout.simple_list_item_1, arrayItems);
         item_list.setAdapter(adapterItems);
