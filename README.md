@@ -1,3 +1,8 @@
+# Simple ToDoList App
+
+## Assignment2-2130227-RakibAhmad-CSE464-1
+
+
 A simple ToDoList app was created for the Mobile Application course (Assignment 2 for CSE464). This app was built without using SQLite and demonstrates basic Android UI components and event handling.
 
 1. Linear Layout: Used as the main layout in the XML file for a structured arrangement of UI elements.
